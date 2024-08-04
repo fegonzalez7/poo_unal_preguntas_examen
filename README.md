@@ -282,3 +282,13 @@ Estos se encargan de modificar y controlar atributos privados de una clase
 </p>
 </details>
  
+¿ Cual es la diferencia entre un mixin y una interface?
+
+<details><summary>Respuesta</summary>
+
+<p>
+Los Mixins puede heredar metodos abstractos o concretos, y por el otro lado,
+las interfaces unicamente heredan metodos abstractos
+</p>
+</details>
+ 
