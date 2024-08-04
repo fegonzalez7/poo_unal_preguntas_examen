@@ -261,4 +261,34 @@ class Plane(Vehicle):
 </details>
 
 
+¿ Cual es la diferencia entre una clase y una interface?
 
+<details><summary>Respuesta</summary>
+
+<p>
+Una interface solo consiste de metodos sin ninguna implementacion ejecutable. Y
+sus funcionalidades requieridas deben ser implementadas por la clase que la herede.
+</p>
+</details>
+ 
+
+
+¿ Cual es la finalidad de definir setter y getters en una clase?
+
+<details><summary>Respuesta</summary>
+
+<p>
+Estos se encargan de modificar y controlar atributos privados de una clase
+</p>
+</details>
+ 
+¿ Cual es la diferencia entre un mixin y una interface?
+
+<details><summary>Respuesta</summary>
+
+<p>
+Los Mixins puede heredar metodos abstractos o concretos, y por el otro lado,
+las interfaces unicamente heredan metodos abstractos
+</p>
+</details>
+ 
