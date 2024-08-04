@@ -8,3 +8,10 @@ Cuáles son las 4 caracteristicas de OOP?
   Abstacción, herencia, polimosfismo, encapsulamiento.
 </p>
 </details>
+
+Cuál es el propósito de `self` en una clase de Python?
+<details><summary>Respuesta</summary>
+<p>
+  Permite a un objeto referenciar sus propios atributos y métodos desde dentro de la clase.
+</p>
+</details>
