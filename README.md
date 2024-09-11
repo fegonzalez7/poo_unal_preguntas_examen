@@ -260,6 +260,14 @@ class Plane(Vehicle):
 </p>
 </details>
 
+<br>
+
+Cuále es la diferencia entre atributos de clase y atributos de instancia?
+<details><summary>Respuesta</summary>
+<p>
+  los atributos de clase estan asociados a la clase y no a una instancia en particular por lo que este atributo sera compartido por toda instancia de esta clase mientras que los atributos de instancia pertenecen a cada objeto unico por lo tanto cada uno tendra su propio valor
+</p>
+</details>
 
 ¿ Cual es la diferencia entre una clase y una interface?
 
